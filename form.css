@@ -1,0 +1,30 @@
+.form{
+    background-color: bisque;
+    height: 50vh;
+    width: 50vh;
+    margin-left: 65vh;
+    margin-top: 30vh;
+    border: 4px solid blue;
+    text-align: center;
+}
+
+.inputdata{
+    padding: 10px;
+}
+
+.inputdata label{
+    display: block;
+    padding: 10;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.inputdata input{
+    padding: 5px;
+}
+
+.btn button{
+    width: 50x;
+    background-color: aquamarine;
+    padding: 5px;
+}

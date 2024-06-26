@@ -1,0 +1,30 @@
+.h1 {
+    font: poppins;
+}
+
+.col1 {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    margin-right: 20vh;
+    position: fixed;
+}
+
+.a1 {
+    margin-top: 5px;
+    padding-left: 5vh;
+    position: fixed;
+}
+
+.col2 {
+    float: right;
+    margin-top: 20vh;
+}
+
+.apple {
+    color: red;
+    height: 5vh;
+}
+
+.orange {
+    color: red;
+}

@@ -1,0 +1,25 @@
+.hello{
+    background-color: aqua;
+    height:20vh;
+    width:20vh;
+    border: 3px solid blue;
+    margin-left:10vh;
+    margin-bottom:60vh;
+   
+}
+.world{
+    background-color: aqua;
+    height:20vh;
+    width:20vh;
+    border: 3px solid blue;
+    margin-left: 100vh;
+    margin-bottom:20vh;
+
+}
+.text{
+    background-color: aqua;
+    height:20vh;
+    width:20vh;
+    border: 3px solid blue;
+        margin-left: 170vh;
+}

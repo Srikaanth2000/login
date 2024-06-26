@@ -1,0 +1,45 @@
+body{
+    margin: 0;    
+    }
+    
+    .menu{
+        width: 100px;
+        background-color: red;
+        border: 3px solid  blueviolet;
+        overflow: auto;
+    
+    }
+    
+    .menu a{
+        font-size: 50px;
+        color: black;
+        padding: 10px;
+        float: left;
+    }
+    
+    .menu a:hover{
+        background-color: red;
+    }
+    body{
+        margin: 0;    
+        }
+        
+        .hello{
+            width: 100%;
+            background-color: red;
+            border: 3px solid  blueviolet;
+            overflow: auto;
+        
+        }
+        
+        .hello a{
+            font-size: 50px;
+            color: black;
+            padding: 10px;
+            float: left;
+        }
+        
+        .hello a:hover{
+            background-color: red;
+        }
+               

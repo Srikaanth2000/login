@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu-bar
+{
+    color: white;
+    background-color: rgb(23, 23, 27);
+    text-align: center;
+    padding-right: 100px;
+    margin-left: 10px;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style:none;
+    color: white;
+}
+.menu-bar ul li
+{
+        width: 100px;
+        margin: 10px;
+        padding: 10px;
+}
+.menu-bar{
+    color: white;
+}
+.box{
+    color: rgb(231, 43, 43);
+    background-color: rgb(23, 23, 27);
+    text-align: center;
+    padding-right: 100px;
+    margin-left: 10px;
+    border: none;
+
+}
+.ball{
+height: 200px;
+width: 200px;
+background-color: red;
+}
+.ball{
+    image-rendering: auto;
+    
+}
